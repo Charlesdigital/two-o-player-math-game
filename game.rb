@@ -34,7 +34,7 @@ class Game
           puts "Player 1 is the winner!"
         end
 
-        puts "----- Game Over. Thanks for playing. -----"
+        puts "-----GAME OVER-----"
       end
 
     end

@@ -1,4 +1,4 @@
-# Requires all the other files
+# Requires is used to load another file and excute all its statements 
 require "./player.rb"
 require "./question.rb"
 require "./game.rb"
